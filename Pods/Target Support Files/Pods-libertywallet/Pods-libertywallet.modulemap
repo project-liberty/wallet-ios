@@ -1,0 +1,6 @@
+framework module Pods_libertywallet {
+  umbrella header "Pods-libertywallet-umbrella.h"
+
+  export *
+  module * { export * }
+}
